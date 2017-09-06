@@ -22,3 +22,7 @@ Keybinding
 My keybinding for the function:
 
     (global-set-key (kbd "C-c T") 'toggl-start-task)
+
+Alternatives
+-------------------------------------------------------------------------------
+- https://github.com/mattduck/org-toggl-py
