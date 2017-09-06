@@ -1,7 +1,7 @@
 emacs-toggl
 ==============================================================================
 
-A simple Emacs extension to work with Toggl.
+A simple Emacs extension to work with [Toggl](https://toggl.com/).
 
 For now it has only on function:
 
